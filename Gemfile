@@ -24,6 +24,7 @@ gem 'omniauth-github'
 gem 'omniauth-google-oauth2'
 # Use Haml instead of erb
 gem 'haml-rails'
+gem 'omniauth-rails_csrf_protection'
 
 # Google Civic Client
 gem 'google-api-client', '~> 0.34'
